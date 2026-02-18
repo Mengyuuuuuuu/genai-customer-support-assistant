@@ -1,81 +1,601 @@
 text,label
-Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 210 EUR pro Monat. Bitte um kurze Rückmeldung.,Abschlag
-"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
-"Hallo, bei mir gibt es einen Stromausfall in Frankfurt. Was kann ich tun?",Technik
-Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Preis)? Danke!,Vertrag
-"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 135 EUR.",Rechnung
-"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
-Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Juni. Danke!,Rechnung
-Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Vielen Dank.",Technik
 Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
-Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771. Können Sie helfen?,Rechnung
-Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-77801.,Technik
-Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen? Danke!,Vertrag
-Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
-Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren. Vielen Dank.,Abschlag
-Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das online machen? Vielen Dank.,Vertrag
-Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären? Danke!,Vertrag
-"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
-Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
-Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
-Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
-Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-10293.,Vertrag
-"Guten Tag, meine Stromrechnung ist diesen Juni ungewöhnlich hoch. Können Sie das prüfen? Können Sie helfen?",Rechnung
-Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
-Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
-"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
-"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
-Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
-Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Können Sie helfen?,Technik
-Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
-"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 210 EUR.",Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Danke!,Abschlag
 Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
 "Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
-Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
-Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
-Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-45012. Bitte um kurze Rückmeldung.,Vertrag
-Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen? Können Sie helfen?,Abschlag
-Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
-Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
-"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Können Sie helfen?",Technik
-Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden? Bitte um kurze Rückmeldung.,Technik
-Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
-Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Vielen Dank.,Technik
-Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-771204.,Technik
-Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
-"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 72 EUR.",Rechnung
-Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
-Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
-"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
-Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen.,Vertrag
-Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Vielen Dank.,Rechnung
-Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen?,Vertrag
-Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
-Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
-"Hallo Team, bei mir gibt es einen Stromausfall in Friedberg. Was kann ich tun?",Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-220901.,Technik
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+"Moin Support-Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das telefonisch?",Abschlag
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
 "Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das online machen?,Vertrag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Preis)?,Abschlag
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-771204.,Technik
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-100238.,Technik
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Moin Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Doppelzahlung)?,Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-77801.,Technik
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat.,Abschlag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811. Danke!,Vertrag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 210 EUR pro Monat.,Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären? Vielen Dank.,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das online machen?,Vertrag
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden? Vielen Dank.,Technik
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Februar.,Rechnung
+Ich bin umgezogen nach Gießen. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich möchte von meinem Sonderkündigungsrecht wegen Doppelzahlung Gebrauch machen.,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Tarifwechsel Gebrauch machen.,Vertrag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 59 EUR. Danke!",Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst? Bitte um kurze Rückmeldung.,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
+"Hallo Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+"Hallo Team, meine Stromrechnung ist diesen Juli ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst? Danke!,Abschlag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler. Vielen Dank.",Technik
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-77801. Danke!,Technik
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Ich bin umgezogen nach Darmstadt. Wie melde ich die neue Adresse und den Einzug? Danke!,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen in der App?,Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Danke!",Rechnung
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-220901.,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat. Vielen Dank.,Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Vielen Dank.,Abschlag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-45012.,Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde. Vielen Dank.",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Hallo Support-Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App?",Abschlag
+"Moin, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das telefonisch? Bitte um kurze Rückmeldung.",Abschlag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren. Vielen Dank.,Abschlag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Umzug)? Danke!,Vertrag
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Ich möchte von meinem Sonderkündigungsrecht wegen Tarifwechsel Gebrauch machen.,Vertrag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Vielen Dank.",Abschlag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771. Können Sie helfen?,Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-10293.,Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen? Können Sie helfen?,Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Kundenservice Gebrauch machen. Bitte um kurze Rückmeldung.,Vertrag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für August.,Rechnung
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Doppelzahlung)?,Vertrag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-23811. Bitte um kurze Rückmeldung.,Technik
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden? Können Sie helfen?,Technik
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen? Danke!,Technik
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-45012.,Rechnung
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist. Bitte um kurze Rückmeldung.",Abschlag
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-45012.,Rechnung
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 210 EUR pro Monat.,Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht. Bitte um kurze Rückmeldung.,Rechnung
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Vielen Dank.,Technik
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-220901.,Technik
+"Guten Tag, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App? Danke!",Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Umzug Gebrauch machen.,Vertrag
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist. Können Sie helfen?",Abschlag
+"Hi, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das telefonisch? Können Sie helfen?",Abschlag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Kundenservice)?,Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-23811.,Technik
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+"Guten Tag, meine Stromrechnung ist diesen Juni ungewöhnlich hoch. Können Sie das prüfen? Können Sie helfen?",Rechnung
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Kundenservice)?,Abschlag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Bitte um kurze Rückmeldung.,Technik
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung. Bitte um kurze Rückmeldung.,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Tarifwechsel)?,Vertrag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen in der App?,Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-771204.,Rechnung
+"Moin Team, meine Stromrechnung ist diesen Juni ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren. Bitte um kurze Rückmeldung.,Abschlag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen. Bitte um kurze Rückmeldung.,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+"Moin, bei mir gibt es einen Stromausfall in Friedberg. Was kann ich tun? Vielen Dank.",Technik
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-100238.,Technik
+"Guten Tag Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor? Danke!",Vertrag
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für November. Danke!,Rechnung
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 45 EUR.",Rechnung
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 45 EUR.",Rechnung
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Bitte um kurze Rückmeldung.",Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Kundenservice Gebrauch machen.,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Der Abschlag wurde ohne Info geändert. Können Sie mir den Grund nennen? Danke!,Abschlag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin? Können Sie helfen?,Vertrag
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen? Können Sie helfen?,Vertrag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-771204.,Rechnung
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+"Moin Team, bei mir gibt es einen Stromausfall in Darmstadt. Was kann ich tun? Können Sie helfen?",Technik
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-23811.,Technik
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug? Vielen Dank.,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-771204.,Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-10293.,Rechnung
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen?,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+"Guten Tag Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor? Vielen Dank.",Vertrag
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+"Guten Tag Support-Team, bei mir gibt es einen Stromausfall in Hanau. Was kann ich tun?",Technik
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Der Abschlag wurde ohne Info geändert. Können Sie mir den Grund nennen? Können Sie helfen?,Abschlag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 45 EUR.",Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Bitte um kurze Rückmeldung.,Abschlag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen? Können Sie helfen?,Technik
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 210 EUR.",Rechnung
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-340771.,Technik
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Doppelzahlung)?,Vertrag
+"Guten Tag Support-Team, bei mir gibt es einen Stromausfall in Gießen. Was kann ich tun?",Technik
+"Moin Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-99007.,Rechnung
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen online?,Rechnung
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-220901. Danke!,Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+"Hallo, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App?",Abschlag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht. Bitte um kurze Rückmeldung.,Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-23811.,Rechnung
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Kundenservice)?,Vertrag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Tarifwechsel)?,Abschlag
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-10293. Vielen Dank.,Rechnung
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen in der App? Bitte um kurze Rückmeldung.,Rechnung
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen? Bitte um kurze Rückmeldung.,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde. Vielen Dank.",Rechnung
+"Hi Support-Team, meine Stromrechnung ist diesen Juni ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen.,Vertrag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+"Hallo Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor? Bitte um kurze Rückmeldung.",Vertrag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen über das Portal?,Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-100238.,Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-340771.,Technik
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-558012.,Technik
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Mai. Vielen Dank.,Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
 Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung? Danke!,Technik
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Vielen Dank.,Technik
+"Hallo Team, meine Stromrechnung ist diesen April ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Danke!",Technik
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-100238. Vielen Dank.,Technik
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Bitte um kurze Rückmeldung.",Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Hi, ich möchte meinen Vertrag kündigen. Wie gehe ich vor? Bitte um kurze Rückmeldung.",Vertrag
 Ich bin umgezogen nach Darmstadt. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811.,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen? Bitte um kurze Rückmeldung.,Technik
+Ich bin umgezogen nach Gießen. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Bitte um kurze Rückmeldung.,Technik
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Vielen Dank.",Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+"Hallo Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das über das Portal?",Abschlag
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
 Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Juni.,Rechnung
 Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
-Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
-Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
-Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-771204.,Technik
-"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären? Bitte um kurze Rückmeldung.,Vertrag
 Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
-Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-45012.,Rechnung
 Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
-"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Können Sie helfen?",Technik
-Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
-Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug? Bitte um kurze Rückmeldung.,Vertrag
-"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
-Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
-"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
-"Hallo Team, meine Stromrechnung ist diesen April ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
-Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
-Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
-Ich möchte von meinem Sonderkündigungsrecht wegen Doppelzahlung Gebrauch machen. Danke!,Vertrag
-Ich bin umgezogen nach Hanau. Wie melde ich die neue Adresse und den Einzug?,Vertrag
-Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht. Bitte um kurze Rückmeldung.,Rechnung
-Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-45012.,Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Können Sie helfen?,Abschlag
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-23811.,Technik
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Können Sie helfen?",Abschlag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung? Vielen Dank.,Technik
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Doppelzahlung)?,Abschlag
 Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-99007.,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 135 EUR.",Rechnung
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung? Danke!,Technik
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 110 EUR pro Monat.,Abschlag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 168 EUR. Danke!",Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das in der App machen? Können Sie helfen?,Vertrag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-220901.,Rechnung
+"Hi Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App?",Abschlag
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Juni. Danke!,Rechnung
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Dezember.,Rechnung
+"Moin, bei mir gibt es einen Stromausfall in Hanau. Was kann ich tun?",Technik
+Ich bin umgezogen nach Frankfurt. Wie melde ich die neue Adresse und den Einzug? Bitte um kurze Rückmeldung.,Vertrag
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Vielen Dank.,Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Danke!,Abschlag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Vielen Dank.",Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-100238. Können Sie helfen?,Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst? Können Sie helfen?,Abschlag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-771204.,Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771.,Rechnung
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen? Danke!,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung? Danke!,Technik
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 168 EUR. Bitte um kurze Rückmeldung.",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Bitte um kurze Rückmeldung.",Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen. Können Sie helfen?,Vertrag
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-100238.,Technik
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist. Können Sie helfen?",Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+"Hi, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293. Bitte um kurze Rückmeldung.,Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-45012.,Rechnung
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Können Sie helfen?,Rechnung
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das in der App machen?,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen telefonisch? Bitte um kurze Rückmeldung.,Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811. Können Sie helfen?,Vertrag
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Tarifwechsel)?,Vertrag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären? Danke!,Vertrag
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-100238. Danke!,Technik
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-99007.,Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-10293. Bitte um kurze Rückmeldung.,Rechnung
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-99007.,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für August.,Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-99007.,Vertrag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Umzug)?,Abschlag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Umzug)?,Vertrag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Vielen Dank.,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das per E-Mail machen?,Vertrag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung. Danke!,Vertrag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 45 EUR.",Rechnung
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-23811.,Rechnung
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-771204.,Technik
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Tarifwechsel)? Vielen Dank.,Abschlag
+Ich bin umgezogen nach Gießen. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen? Bitte um kurze Rückmeldung.,Abschlag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Danke!,Technik
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat. Können Sie helfen?,Abschlag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-558012.,Rechnung
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Preis)?,Vertrag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 110 EUR.",Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Bitte um kurze Rückmeldung.,Abschlag
+"Hi Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Vielen Dank.",Rechnung
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-558012.,Technik
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Danke!",Abschlag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-220901.,Technik
+"Ich habe den Tarif gewechselt und möchte verstehen, wie die Rechnung berechnet wurde.",Rechnung
+"Hallo Support-Team, bei mir gibt es einen Stromausfall in Darmstadt. Was kann ich tun? Vielen Dank.",Technik
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin? Bitte um kurze Rückmeldung.,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-220901.,Technik
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-558012.,Technik
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung. Vielen Dank.,Vertrag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-100238.,Rechnung
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+"Hi Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App?",Abschlag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler. Bitte um kurze Rückmeldung.",Technik
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 72 EUR.",Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811.,Vertrag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler. Bitte um kurze Rückmeldung.",Technik
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich bin umgezogen nach Friedberg. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+"Guten Tag, bei mir gibt es einen Stromausfall in Friedberg. Was kann ich tun?",Technik
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-77801. Vielen Dank.,Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-100238.,Rechnung
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-99007. Können Sie helfen?,Vertrag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811.,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das in der App machen?,Vertrag
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Ich bin umgezogen nach Friedberg. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+"Hallo Support-Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das über das Portal?",Abschlag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 89 EUR. Vielen Dank.",Rechnung
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-77801.,Rechnung
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-771204.,Technik
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen telefonisch?,Rechnung
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-771204. Bitte um kurze Rückmeldung.,Rechnung
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 59 EUR pro Monat. Danke!,Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Bitte um kurze Rückmeldung.",Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme? Vielen Dank.,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren. Vielen Dank.,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-340771.,Technik
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich möchte von meinem Sonderkündigungsrecht wegen Tarifwechsel Gebrauch machen.,Vertrag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-771204.,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen online?,Rechnung
+"Hallo Team, meine Stromrechnung ist diesen April ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen über das Portal? Bitte um kurze Rückmeldung.,Rechnung
+Ich bin umgezogen nach Friedberg. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 45 EUR pro Monat. Können Sie helfen?,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Doppelzahlung Gebrauch machen.,Vertrag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat. Danke!,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das per E-Mail machen?,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Kundenservice Gebrauch machen. Können Sie helfen?,Vertrag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden? Danke!,Technik
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Ich bin umgezogen nach Friedberg. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat.,Abschlag
+Ich bin umgezogen nach Hanau. Wie melde ich die neue Adresse und den Einzug?,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771.,Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler. Können Sie helfen?",Technik
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Doppelzahlung)?,Vertrag
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 210 EUR pro Monat.,Abschlag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Umzug)? Vielen Dank.,Abschlag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 72 EUR.",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Danke!",Abschlag
+Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen. Vielen Dank.,Vertrag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht. Bitte um kurze Rückmeldung.,Rechnung
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen?,Vertrag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293. Können Sie helfen?,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Juli. Danke!,Rechnung
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen? Bitte um kurze Rückmeldung.,Vertrag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-45012. Danke!,Vertrag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+"Hallo Support-Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das in der App?",Abschlag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Danke!",Rechnung
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-220901.,Technik
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen?",Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 59 EUR pro Monat.,Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Der Abschlag wurde ohne Info geändert. Können Sie mir den Grund nennen?,Abschlag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-45012.,Technik
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771.,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen per E-Mail?,Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler.",Technik
+Wie wird der Abschlag berechnet und wann wird er angepasst?,Abschlag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+"Ich möchte den Zählerstand melden, aber das Portal zeigt einen Fehler. Vielen Dank.",Technik
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen telefonisch?,Rechnung
+"Hallo, meine Stromrechnung ist diesen April ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Können Sie helfen?",Technik
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das per E-Mail machen? Vielen Dank.,Vertrag
+"Guten Tag, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das per E-Mail?",Abschlag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 89 EUR pro Monat.,Abschlag
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Vielen Dank.,Rechnung
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-23811.,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Kundenservice Gebrauch machen.,Vertrag
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Umzug)?,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Vielen Dank.,Rechnung
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Umzug)?,Vertrag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen?",Technik
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-340771. Bitte um kurze Rückmeldung.,Rechnung
+"Hi Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das online? Bitte um kurze Rückmeldung.",Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+"Moin, bei mir gibt es einen Stromausfall in Hanau. Was kann ich tun?",Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-77801.,Vertrag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Ich vermute einen falschen Zählerstand auf der Rechnung. Zähler-ID: Z-100238.,Rechnung
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung? Danke!,Technik
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für Februar.,Rechnung
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen telefonisch?,Rechnung
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Danke!,Rechnung
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Wie lange läuft mein Vertrag noch? Vertragsnummer: VK-45012.,Vertrag
+"Moin Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor? Können Sie helfen?",Vertrag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Vielen Dank.",Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen in der App?,Rechnung
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Wie wird der Abschlag berechnet und wann wird er angepasst? Bitte um kurze Rückmeldung.,Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+"Hi Support-Team, ich möchte meinen monatlichen Abschlag anpassen. Wie geht das über das Portal?",Abschlag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen über das Portal?,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen über das Portal?,Rechnung
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich?,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+"Moin Support-Team, bei mir gibt es einen Stromausfall in Frankfurt. Was kann ich tun?",Technik
+Ich möchte den Abbuchungstermin für den Abschlag ändern. Ist das möglich? Können Sie helfen?,Abschlag
+"Hi Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Doppelzahlung Gebrauch machen.,Vertrag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 45 EUR pro Monat.,Abschlag
+"Ich habe eine Störung gemeldet, aber keine Rückmeldung erhalten. Können Sie den Status prüfen? Vielen Dank.",Technik
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Kundenservice)?,Abschlag
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Ich habe einen neuen Zähler erhalten. Wie erfolgt die Inbetriebnahme?,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren. Vielen Dank.,Abschlag
+Warum ist meine Rechnung höher als erwartet? Ich habe meinen Verbrauch nicht erhöht.,Rechnung
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Wie kann ich einen technischen Defekt melden und wie lange dauert die Bearbeitung?,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung.,Rechnung
+Die Rechnung scheint geschätzt zu sein. Wie kann ich den korrekten Zählerstand nachreichen per E-Mail?,Rechnung
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Ich habe Fragen zu Vertragslaufzeit und Preisgarantie. Können Sie mir das erklären?,Vertrag
+"Bitte erhöhen Sie meinen Abschlag, da mein Verbrauch gestiegen ist.",Abschlag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Tarifwechsel)? Können Sie helfen?,Abschlag
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden? Danke!,Technik
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 135 EUR pro Monat.,Abschlag
+"Hi Support-Team, bei mir gibt es einen Stromausfall in Frankfurt. Was kann ich tun?",Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+"Ich habe eine Mahnung erhalten, aber ich habe bereits bezahlt. Betrag: 110 EUR.",Rechnung
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+"Hallo Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Die App erkennt meinen Vertrag nicht. Vertragsnummer: VK-10293.,Technik
+Ich möchte meinen Abschlag auf Basis aktueller Zählerstände aktualisieren.,Abschlag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+"Hi Support-Team, meine Stromrechnung ist diesen Februar ungewöhnlich hoch. Können Sie das prüfen?",Rechnung
+Ich habe flackerndes Licht und Spannungsschwankungen. An wen kann ich mich wenden?,Technik
+Warum wurden zusätzliche Gebühren berechnet? Bitte erklären Sie die Positionen auf der Rechnung. Können Sie helfen?,Rechnung
+Können Sie mir eine Rechnungskopie zusenden? Vertragsnummer: VK-99007.,Rechnung
+Wie kann ich meinen Tarif wechseln? Gibt es günstigere Optionen?,Vertrag
+Bitte bestätigen Sie mir schriftlich die Vertragskündigung.,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Preis Gebrauch machen.,Vertrag
+Kann ich meinen Vertrag auf eine andere Person übertragen (z.B. bei Tarifwechsel)?,Vertrag
+Ich bin umgezogen nach Friedberg. Wie melde ich die neue Adresse und den Einzug? Vielen Dank.,Vertrag
+Wie kann ich den Abschlag pausieren oder stunden (z.B. wegen Kundenservice)?,Abschlag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das telefonisch machen?,Vertrag
+Der Abschlag wurde ohne Info geändert. Können Sie mir den Grund nennen?,Abschlag
+Ich bin umgezogen nach Gießen. Wie melde ich die neue Adresse und den Einzug? Bitte um kurze Rückmeldung.,Vertrag
+Ich benötige Unterstützung beim Smart-Meter. Zähler-ID: Z-558012.,Technik
+"Hi Support-Team, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+"Ich glaube, ich habe eine Doppelabbuchung. Können Sie die Rechnung und Zahlung überprüfen? Können Sie helfen?",Rechnung
+"Guten Tag, ich möchte meinen Vertrag kündigen. Wie gehe ich vor?",Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Ich möchte meine Vertragsdaten aktualisieren. Wo kann ich das über das Portal machen?,Vertrag
+Ich möchte von meinem Sonderkündigungsrecht wegen Umzug Gebrauch machen. Danke!,Vertrag
+Welche Fristen gelten für eine Kündigung und wann ist der nächstmögliche Termin?,Vertrag
+Die Verbrauchswerte scheinen unplausibel. Können Sie den Zähler prüfen?,Technik
+Bitte senden Sie mir eine detaillierte Erklärung zur Rechnung für April.,Rechnung
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren?",Abschlag
+Mein Zähler funktioniert nicht / zeigt nichts mehr an. Zähler-ID: Z-100238.,Technik
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen? Vielen Dank.,Abschlag
+Ich habe eine neue Person im Haushalt. Können wir den Abschlag neu berechnen?,Abschlag
+Kann ich meinen Abschlag reduzieren? Aktuell zahle ich 168 EUR pro Monat.,Abschlag
+Der Abschlag wurde ohne Info geändert. Können Sie mir den Grund nennen? Vielen Dank.,Abschlag
+"Kann ich eine einmalige Sonderzahlung leisten, um den Abschlag zu stabilisieren? Danke!",Abschlag
+"Moin Support-Team, bei mir gibt es einen Stromausfall in Gießen. Was kann ich tun?",Technik

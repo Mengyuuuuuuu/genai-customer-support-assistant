@@ -5,13 +5,18 @@ def main():
     print("GenAI Customer Support Assistant")
     print("---------------------------------")
 
-    user_input = input("Ihre Anfrage: ")
+    while True:
+        user_input = input("\nIhre Anfrage (oder 'exit'): ")
 
-    category, response = run_workflow(user_input)
+        if user_input.lower() == "exit":
+            print("Beendet.")
+            break
 
-    print("\nKategorie:", category)
-    print("Antwort:")
-    print(response)
+        category, response = run_workflow(user_input)
+
+        print("\nKategorie:", category)
+        print("Antwort:")
+        print(response)
 
 
 if __name__ == "__main__":

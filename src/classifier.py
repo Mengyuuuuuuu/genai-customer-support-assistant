@@ -4,13 +4,14 @@ import os
 from dataclasses import dataclass
 from typing import Tuple
 
+import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 
-
 DEFAULT_DATA_PATH = os.path.join("data", "customer_questions.csv")
+DEFAULT_MODEL_PATH = os.path.join("models", "text_classifier.joblib")
 
 
 @dataclass
@@ -21,8 +22,8 @@ class ClassifierResult:
 
 class TextClassifier:
     """
-    Lightweight text classifier: TF-IDF + Logistic Regression
-    Provides label prediction + confidence (max class probability).
+    TF-IDF + Logistic Regression classifier.
+    Supports training, saving/loading, and confidence (max class probability).
     """
 
     def __init__(self) -> None:
@@ -39,10 +40,22 @@ class TextClassifier:
         self.pipeline = Pipeline(
             steps=[
                 ("tfidf", TfidfVectorizer(ngram_range=(1, 2), min_df=1)),
-                ("clf", LogisticRegression(max_iter=200)),
+                ("clf", LogisticRegression(max_iter=300)),
             ]
         )
         self.pipeline.fit(X, y)
+
+    def save(self, model_path: str = DEFAULT_MODEL_PATH) -> None:
+        if self.pipeline is None:
+            raise RuntimeError("Nothing to save. Train or load a model first.")
+        os.makedirs(os.path.dirname(model_path), exist_ok=True)
+        joblib.dump(self.pipeline, model_path)
+
+    def load(self, model_path: str = DEFAULT_MODEL_PATH) -> bool:
+        if not os.path.exists(model_path):
+            return False
+        self.pipeline = joblib.load(model_path)
+        return True
 
     def predict(self, text: str) -> str:
         self._ensure_ready()
@@ -57,27 +70,38 @@ class TextClassifier:
 
     def _ensure_ready(self) -> None:
         if self.pipeline is None:
-            raise RuntimeError("Classifier not trained yet. Call train() first.")
+            raise RuntimeError("Model not ready. Train or load first.")
 
 
-# Singleton-like helper for simple usage in workflow
 _classifier = TextClassifier()
-_is_trained = False
 
 
-def ensure_trained(csv_path: str = DEFAULT_DATA_PATH) -> None:
-    global _is_trained
-    if not _is_trained:
+def ensure_model_ready(
+    csv_path: str = DEFAULT_DATA_PATH,
+    model_path: str = DEFAULT_MODEL_PATH,
+) -> None:
+    """
+    Try load model first; if not available, train and save it.
+    """
+    loaded = _classifier.load(model_path=model_path)
+    if not loaded:
         _classifier.train(csv_path=csv_path)
-        _is_trained = True
+        _classifier.save(model_path=model_path)
 
 
 def predict_category(text: str) -> str:
-    ensure_trained()
+    ensure_model_ready()
     return _classifier.predict(text)
 
 
 def predict_category_with_confidence(text: str) -> Tuple[str, float]:
-    ensure_trained()
+    ensure_model_ready()
     r = _classifier.predict_with_confidence(text)
     return r.label, r.confidence
+
+
+if __name__ == "__main__":
+    # manual training entrypoint:
+    # python src/classifier.py
+    ensure_model_ready()
+    print(f"✅ Model ready (saved to: {DEFAULT_MODEL_PATH})")

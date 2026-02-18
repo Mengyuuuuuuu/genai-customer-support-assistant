@@ -12,7 +12,7 @@ Categories:
 - Abschlag (monthly installment)
 
 Usage:
-  python scripts/generate_data.py --n 80 --out data/customer_questions.csv --seed 42
+  python scripts/generate_data.py --n 600--out data/customer_questions.csv --seed 42
 """
 
 from __future__ import annotations

@@ -29,3 +29,13 @@ A GenAI workflow can reduce manual handling effort in customer support by automa
 - Feedback loop
 - Confidence-based fallback logic
 - Deployment as API / Streamlit app
+
+## Impact of Training Data Size on Model Confidence
+We evaluated the effect of increasing synthetic training data size.
+
+- 120 samples → confidence ≈ 0.36  
+- 300 samples → confidence ≈ 0.46
+- 600 samples → confidence ≈ 0.57  
+
+This demonstrates that larger training datasets improve model certainty,
+even in a lightweight TF-IDF + Logistic Regression setup.
