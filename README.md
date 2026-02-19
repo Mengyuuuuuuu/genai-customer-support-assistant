@@ -10,13 +10,16 @@ The system combines:
 
 ## Architecture
 
-User Input  
-↓  
-Text Classification (Logistic Regression + TF-IDF)  
-↓  
-LLM Response Generation  
-↓  
-Evaluation / Guardrails  
+User Input
+   ↓
+Classifier (category + confidence)
+   ↓
+Workflow Router (3-tier decision logic)
+   ↓
+LLM (Qwen)
+   ↓
+Final Response
+
 
 ## Dataset
 Synthetic dataset generated for prototyping purposes.
@@ -39,3 +42,21 @@ We evaluated the effect of increasing synthetic training data size.
 
 This demonstrates that larger training datasets improve model certainty,
 even in a lightweight TF-IDF + Logistic Regression setup.
+
+## LLM Integration
+
+The system uses Qwen (Alibaba DashScope) via an OpenAI-compatible API endpoint.
+
+- Model: `qwen-plus`
+- Endpoint: DashScope OpenAI-compatible API
+- Temperature: 0.3 (low variance for stable customer responses)
+
+The LLM is used for:
+- Generating structured customer service responses
+- Producing controlled follow-up questions (medium confidence tier)
+
+## Setup
+
+Create a `.env` file:
+
+QWEN_API_KEY=your_api_key_here
